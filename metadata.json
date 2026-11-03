@@ -1,0 +1,8 @@
+{
+  "name": "Remix Aura Organic",
+  "description": "Boutique organic apothecary featuring handcrafted herbal teas, botanical wellness tinctures, and adaptogenic superfoods.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
